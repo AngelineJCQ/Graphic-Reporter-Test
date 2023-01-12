@@ -1,4 +1,4 @@
-# Task 1 Memo
+# Task 1 
 ## The information that I learned from the csv file
 - TX high schools basic info: name, school district, enrollment
 - The year that each school won the UIL championship → total number of championships in the school history
